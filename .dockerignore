@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.git/
+bot_token.txt
+cookie_pool.json
+cookie_pool.json.tmp
+input.txt
+NFTOKEN.TXT
+tv_debug.png
